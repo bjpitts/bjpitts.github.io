@@ -15,6 +15,6 @@ title: Experience
   Worked as a summer intern during the summers of 2013 and 2014 at the Lawrence Livermore National Laboratory. During the 2013 summer,
   I worked with Matthew Toomey in the Information and Computing Services department learning SQL and JDeveloper and web design. During
   the 2014 summer I worked with Matthew Harris in the Analytics, Informatics, and Management Systems group. I worked on web development
-  using HTML, CSS, Javascript, Python, and Ruby.
+  using HTML, CSS, Javascript, Python, and Ruby
 </p>
 
