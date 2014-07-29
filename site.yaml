@@ -1,0 +1,16 @@
+context:
+  data:
+    author: {}
+    home_url: index.html
+    menu:
+    - {title: School, url: school.html}
+    - {title: Experience, url: experience.html}
+    - {title: Social, url: social.html}
+    - {title: Community Service, url: community-service.html}
+    - {title: Home, url: index.html}
+    nav_hover: true
+    site_title: bjpitts
+media_url: media
+mode: development
+plugins: [hyde.ext.plugins.meta.MetaPlugin, hyde.ext.plugins.auto_extend.AutoExtendPlugin,
+  hyde.ext.plugins.syntext.SyntextPlugin, hyde.ext.plugins.textlinks.TextlinksPlugin]
