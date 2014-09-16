@@ -4,6 +4,7 @@ title: Experience
 ---
 # Experience
 <br/>
+## <a href ="#">Resume PDF File</a>
 ## ROTC
 <img src="media/images/airforce-rotc.jpg" width="150" height="150">
 <p>
@@ -17,4 +18,6 @@ title: Experience
   the 2014 summer I worked with Matthew Harris in the Analytics, Informatics, and Management Systems group. I worked on web development
   using HTML, CSS, Javascript, Python, and Ruby
 </p>
-
+## Summer Internship Posters
+### 2013 <a href ="media/pdf/Project2013.pdf">Is Responsive Design Killing Mobile Apps</a>
+### 2014 <a href ="media/pdf/PosterSample2.pdf">Webshooter2.0</a>
