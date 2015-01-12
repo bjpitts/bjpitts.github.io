@@ -16,7 +16,7 @@ div.hero-unit div.hero-bg {
   bottom: 0;
   left: 0;
   right: 0;
-  opacity: .15;
+  opacity: .35;
   background: url(media/images/7967747.jpeg) center center no-repeat;
   width: 100%;
   height: 100%;
