@@ -47,6 +47,7 @@ title: School
     <td>4</td>
   </tr>
 </table>
+<br/>
 <table align="right" class="table" style="width:45%">
   <tr>
     <th>Class</th>
@@ -78,6 +79,7 @@ title: School
     <td>4</td>
   </tr>
 </table>
+<br/>
 <table align="left" class="table" style="width:45%">
   <tr>
     <th>Class</th>
@@ -109,6 +111,7 @@ title: School
     <td>4</td>
   </tr>
 </table>
+<br/>
 <table align="right" class="table" style="width:45%">
   <tr>
     <th>Class</th>
@@ -141,6 +144,7 @@ title: School
     <td>4</td>
   </tr>
 </table>
+<br/>
 <table align="left" class="table" style="width:45%">
   <tr>
     <th>Class</th>
@@ -173,6 +177,7 @@ title: School
     <td>4</td>
   </tr>
 </table>
+<br/>
 <table align="right" class="table" style="width:45%">
   <tr>
     <th>Class</th>
@@ -205,3 +210,4 @@ title: School
     <td>4</td>
   </tr>
 </table>
+<br/>
